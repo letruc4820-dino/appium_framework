@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+ <!--Định nghĩa toàn bộ test, chứa toàn bộ test -->
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="Listeners.TestListener">
+        </listener>
+    </listeners>
+<!-- nhóm test -->
+        <test verbose="2" preserve-order="true"
+              name="Regression test">
+            <classes>
+<!--                nhung file test case nào sẽ được chạy-->
+                <class name="testcase.register.Register_01_Verify_Successfully">
+                    <methods>
+<!--                        nhuững method được chạy/ @test nào được chạy-->
+                        <include name="testValidRegister"/>
+                    </methods>
+                </class>
+                <class name="testcase.login.Login01_Verify_Successfully">
+                    <methods>
+                        <include name="testValidLogin"/>
+                    </methods>
+                </class>
+            </classes>
+        </test>
+    </suite>

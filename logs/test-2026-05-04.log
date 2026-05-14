@@ -1,0 +1,15 @@
+[2026-04-22 20:13:19] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-04-22 20:13:19] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-04-22 20:13:23] [INFO ] Login01_Verify_Successfully - Starting before method - create test in extent report for method
+[2026-04-22 20:13:29] [INFO ] Login01_Verify_Successfully - Starting after method - create test in extent report for mothod
+[2026-04-22 20:13:29] [INFO ] Login01_Verify_Successfully - Starting after class - quit web driver
+[2026-04-22 20:13:30] [INFO ] Register_01_Verify_Successfully - Starting before class - initialize web driver
+[2026-04-22 20:13:30] [INFO ] Register_01_Verify_Successfully - Starting before method - create test in extent report for method
+[2026-04-22 20:13:30] [INFO ] Register_01_Verify_Successfully - Truy cập vào trang demo1
+[2026-04-22 20:13:32] [INFO ] Register_01_Verify_Successfully - Truy cập vào trang đăng ký
+[2026-04-22 20:13:32] [INFO ] Register_01_Verify_Successfully - Nhập dữ liệu vào form đăng ký
+[2026-04-22 20:13:32] [INFO ] Register_01_Verify_Successfully - Nhập dữ liệu vào username ef5a550d-bcaf-4db9-acb2-0132b77e4147
+[2026-04-22 20:13:32] [INFO ] Register_01_Verify_Successfully - Nhập password
+[2026-04-22 20:13:35] [INFO ] Register_01_Verify_Successfully - Starting after method - create test in extent report for mothod
+[2026-04-22 20:13:35] [INFO ] Register_01_Verify_Successfully - Starting after class - quit web driver
+[2026-04-22 20:13:35] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report

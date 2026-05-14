@@ -1,0 +1,21 @@
+[2026-04-17 18:57:37] [INFO ] Register_01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-04-17 18:57:37] [INFO ] TestListener - onStart
+[2026-04-17 18:57:37] [INFO ] Register_01_Verify_Successfully - Starting before class - initialize web driver
+[2026-04-17 18:57:38] [INFO ] Register_01_Verify_Successfully - Starting before method - create test in extent report for method
+[2026-04-17 18:57:38] [INFO ] TestListener - onTestStart
+[2026-04-17 18:57:38] [INFO ] Register_01_Verify_Successfully - Truy cập vào trang demo1
+[2026-04-17 18:57:42] [INFO ] Register_01_Verify_Successfully - Truy cập vào trang đăng ký
+[2026-04-17 18:57:42] [INFO ] Register_01_Verify_Successfully - Nhập dữ liệu vào form đăng ký
+[2026-04-17 18:57:42] [INFO ] Register_01_Verify_Successfully - Nhập dữ liệu vào username 790bdfba-c1c7-454f-9f66-819e428bf456
+[2026-04-17 18:57:42] [INFO ] Register_01_Verify_Successfully - Nhập password
+[2026-04-17 18:57:44] [INFO ] TestListener - onTestSuccess: testValidRegister - PASSED
+[2026-04-17 18:57:44] [INFO ] Register_01_Verify_Successfully - Starting after method - create test in extent report for mothod
+[2026-04-17 18:57:44] [INFO ] Register_01_Verify_Successfully - Starting after class - quit web driver
+[2026-04-17 18:57:45] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-04-17 18:57:45] [INFO ] Login01_Verify_Successfully - Starting before method - create test in extent report for method
+[2026-04-17 18:57:45] [INFO ] TestListener - onTestStart
+[2026-04-17 18:57:50] [INFO ] TestListener - onTestSuccess: testValidLogin - PASSED
+[2026-04-17 18:57:50] [INFO ] Login01_Verify_Successfully - Starting after method - create test in extent report for mothod
+[2026-04-17 18:57:50] [INFO ] Login01_Verify_Successfully - Starting after class - quit web driver
+[2026-04-17 18:57:50] [INFO ] TestListener - onFinish
+[2026-04-17 18:57:50] [INFO ] Register_01_Verify_Successfully - Starting after suite - flush extent report

@@ -1,0 +1,44 @@
+[2026-05-14 15:35:48] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-05-14 15:35:48] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:35:48] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-05-14 15:35:48] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:35:49] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report
+[2026-05-14 15:37:09] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-05-14 15:37:09] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:37:09] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-05-14 15:37:09] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:37:09] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report
+[2026-05-14 15:39:54] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-05-14 15:39:54] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:39:54] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-05-14 15:39:55] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:39:55] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report
+[2026-05-14 15:40:48] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-05-14 15:40:48] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:40:48] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-05-14 15:40:48] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:40:49] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report
+[2026-05-14 15:41:13] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-05-14 15:41:13] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:41:13] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-05-14 15:41:13] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:41:13] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report
+[2026-05-14 15:42:23] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-05-14 15:42:23] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:42:24] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-05-14 15:42:24] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:42:24] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report
+[2026-05-14 15:43:43] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-05-14 15:43:44] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:43:44] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-05-14 15:43:44] [INFO ] ConfigManager - Properties loaded successfully
+[2026-05-14 15:43:49] [INFO ] Login01_Verify_Successfully - Starting before method - create test in extent report for method
+[2026-05-14 15:43:50] [INFO ] Login01_Verify_Successfully - Step 1: Click main menu
+[2026-05-14 15:43:51] [INFO ] Login01_Verify_Successfully - Step 2: Click login button
+[2026-05-14 15:43:52] [INFO ] Login01_Verify_Successfully - Step 3: Input username and password
+[2026-05-14 15:43:54] [INFO ] Login01_Verify_Successfully - Step 4: click login button
+[2026-05-14 15:43:55] [INFO ] Login01_Verify_Successfully - VP1: Verify login successfully
+[2026-05-14 15:43:56] [INFO ] Login01_Verify_Successfully - VP2: Verify logout button display
+[2026-05-14 15:43:57] [INFO ] Login01_Verify_Successfully - Starting after method - create test in extent report for mothod
+[2026-05-14 15:43:57] [INFO ] Login01_Verify_Successfully - Starting after class - quit web driver
+[2026-05-14 15:43:58] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report

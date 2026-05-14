@@ -1,0 +1,30 @@
+[2026-05-08 20:39:52] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-05-08 20:39:52] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-05-08 20:39:59] [INFO ] Login01_Verify_Successfully - Starting before method - create test in extent report for method
+[2026-05-08 20:40:00] [INFO ] Login01_Verify_Successfully - Step 1: Click main menu
+[2026-05-08 20:40:01] [INFO ] Login01_Verify_Successfully - Step 2: Click login button
+[2026-05-08 20:40:02] [INFO ] Login01_Verify_Successfully - Step 3: Input username and password
+[2026-05-08 20:40:02] [INFO ] Login01_Verify_Successfully - Starting after method - create test in extent report for mothod
+[2026-05-08 20:40:03] [INFO ] Login01_Verify_Successfully - Starting after class - quit web driver
+[2026-05-08 20:40:04] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report
+[2026-05-08 20:41:01] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-05-08 20:41:01] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-05-08 20:41:06] [INFO ] Login01_Verify_Successfully - Starting before method - create test in extent report for method
+[2026-05-08 20:41:06] [INFO ] Login01_Verify_Successfully - Step 1: Click main menu
+[2026-05-08 20:41:08] [INFO ] Login01_Verify_Successfully - Step 2: Click login button
+[2026-05-08 20:41:09] [INFO ] Login01_Verify_Successfully - Step 3: Input username and password
+[2026-05-08 20:41:09] [INFO ] Login01_Verify_Successfully - Starting after method - create test in extent report for mothod
+[2026-05-08 20:41:10] [INFO ] Login01_Verify_Successfully - Starting after class - quit web driver
+[2026-05-08 20:41:10] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report
+[2026-05-08 20:44:42] [INFO ] Login01_Verify_Successfully - Starting before suite - initialize web driver
+[2026-05-08 20:44:42] [INFO ] Login01_Verify_Successfully - Starting before class - initialize web driver
+[2026-05-08 20:44:46] [INFO ] Login01_Verify_Successfully - Starting before method - create test in extent report for method
+[2026-05-08 20:44:47] [INFO ] Login01_Verify_Successfully - Step 1: Click main menu
+[2026-05-08 20:44:48] [INFO ] Login01_Verify_Successfully - Step 2: Click login button
+[2026-05-08 20:44:49] [INFO ] Login01_Verify_Successfully - Step 3: Input username and password
+[2026-05-08 20:44:50] [INFO ] Login01_Verify_Successfully - Step 4: click login button
+[2026-05-08 20:44:51] [INFO ] Login01_Verify_Successfully - VP1: Verify login successfully
+[2026-05-08 20:44:52] [INFO ] Login01_Verify_Successfully - VP2: Verify logout button display
+[2026-05-08 20:44:54] [INFO ] Login01_Verify_Successfully - Starting after method - create test in extent report for mothod
+[2026-05-08 20:44:54] [INFO ] Login01_Verify_Successfully - Starting after class - quit web driver
+[2026-05-08 20:44:54] [INFO ] Login01_Verify_Successfully - Starting after suite - flush extent report
